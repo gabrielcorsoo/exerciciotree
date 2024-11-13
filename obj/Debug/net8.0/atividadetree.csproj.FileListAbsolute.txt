@@ -1,0 +1,15 @@
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\bin\Debug\net8.0\atividadetree.exe
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\bin\Debug\net8.0\atividadetree.deps.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\bin\Debug\net8.0\atividadetree.runtimeconfig.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\bin\Debug\net8.0\atividadetree.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\bin\Debug\net8.0\atividadetree.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.AssemblyInfoInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.AssemblyInfo.cs
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.csproj.CoreCompileInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.sourcelink.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\refint\atividadetree.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\atividadetree.genruntimeconfig.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\atividadetree\obj\Debug\net8.0\ref\atividadetree.dll
